@@ -1,0 +1,15 @@
+site_name: The App
+site_url: https://github.com/
+site_description: The App from the Author
+
+repo_url: https://github.com/
+
+theme:
+    name: mkdocs
+
+markdown_extensions:
+ - toc:
+    anchorlink: True
+
+nav:
+ - Home: 'index.md'
